@@ -1,0 +1,2 @@
+clerk para authentication
+shadcn componentes customizables 
